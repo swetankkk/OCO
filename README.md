@@ -1,3 +1,3 @@
-# Online-internships-Hackathonss-Program-Vacation-of-Code
+# Online-internships-Hackathons-Programs-Vacation-of-Code
 |NAME|Eligiblity|Stipend|
 |----|----------|-------|
