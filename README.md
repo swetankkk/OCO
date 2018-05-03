@@ -1,7 +1,7 @@
 
 # Online-Code-Opportunities 
-|NAME                                                                         |Eligiblity|Fields       |Technologies          |Stipend|Application Timeline|Program Timeline|GSoC Dependent|
-|-----------------------------------------------------------------------------|----------|-------------|----------------------|-------|--------------------|----------------|--------------|
+|NAME                                                                         |Eligiblity|Fields       |Technologies          |Stipend |Application Timeline|Program Timeline|GSoC Dependent|
+|:----------------------------------------------------------------------------|:--------:|:-----------:|----------------------|-------|--------------------|----------------|--------------|
 | [GSOC](https://summerofcode.withgoogle.com/)                                |Global    |All          |All                   |Yes    | March            |April-August    |              |
 | [Season of KDE](https://season.kde.org)                                     |Global    |             |qt,c/c++,qml          |       |                    |                |              |
 | [The X.Org Endless Vacation of Code (EVoC)](http://www.x.org/wiki/XorgEVoC/)|Global    |             |                      |Yes    | All Year         |All Year        |              | 
@@ -17,5 +17,5 @@
 |                                                                             |          |             |                      |       |                    |                |              |
 |                                                                             |          |             |                      |       |                    |                |              |
 |                                                                             |          |             |                      |       |                    |                |              |
-Note-Technologies may vary from project to project, so it is not necessary to know all Technologies
+*Note-Technologies may vary from project to project, so it is not necessary to know all Technologies
 Also other technologies can be used depending on the project.  
