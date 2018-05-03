@@ -18,5 +18,5 @@
 |                                                                             |          |             |                      |       |                    |                |              |
 |                                                                             |          |             |                      |       |                    |                |              |
 
-Note-Technologies may vary from project to project, so it is not necessary to know all Technologies
+Note-Technologies may vary from project to project, so it is not necessary to know all the technologies.
 Also other technologies can be used depending on the project.  
