@@ -11,7 +11,7 @@
 |[Free Software Foundation Internship](fsf.org/volunteer/internships)        |Global    |             |                      | No    |                    |                | No           |
 |[ Radare Summer of Code](https://rada.re/rsoc)                              |Global    |             |                      | Yes   |                    |                | Yes          |
 |[Hyperledger Internship Program](wiki.hyperledger.org/internship/schedule)  |Global    |Blockchain   |                      | Yes   | March              | June-Aug/Nov   | No           |
-|                                                                            |          |             |                      |       |                    |                |              |
+|[RARE Technologies Incubator Program](rare-technologies.com/incubator)      |Global    |Data-Sci/ML  |                      |Case-basis| All-year        | All-year       | No           |
 |                                                                            |          |             |                      |       |                    |                |              |
 |                                                                            |          |             |                      |       |                    |                |              |
 |                                                                            |          |             |                      |       |                    |                |              |
