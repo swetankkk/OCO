@@ -13,7 +13,7 @@
 |[Hyperledger Internship Program](wiki.hyperledger.org/internship/schedule)  |Global    |Blockchain   |                      | Yes   | March              | June-Aug/Nov   | No           |
 |[RARE Technologies Incubator Program](rare-technologies.com/incubator)      |Global    |Data-Sci/ML  |                      |Case-basis| All-year        | All-year       | No           |
 | [Outreachy](https://www.gnome.org/outreachy/)                              |Under-represented|      |                      | $5500 |Feb-Mar Sep-Oct     |May-Aug Dec-Mar | No           |
-|[Summer of Haskell](https://summer.haskell.org)    `````````````````````````|Global    |             |                      |       |                    |                | Yes          |
+|[Summer of Haskell](https://summer.haskell.org)                             |Global    |             |                      |       |                    |                | Yes          |
 |                                                                            |          |             |                      |       |                    |                |              |
 |                                                                            |          |             |                      |       |                    |                |              |
 |                                                                            |          |             |                      |       |                    |                |              |
