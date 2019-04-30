@@ -16,6 +16,7 @@
 |[Summer of Haskell](https://summer.haskell.org)                             |Global    |             |                      |       |                    |                | Yes          |
 |[GirlScript Summer of Code](http://gssoc.tech)                              |          |All          |All                   |Prize  |                    | Jun-Aug        | No           |
 |[RAILS GIRLS SUMMER OF CODE](https://railsgirlssummerofcode.org)            |          |             |                      |       | Feb                | Jul-Sep        |              |
+|[Summer of Code in Space ](https://socis.esa.int/)                          |Global    |All          |All                   |€4000  | April-May          | Jun-Sep   | No           |
 |                                                                            |          |             |                      |       |                    |                |              |
 
 Note-Technologies may vary from project to project, so it is not necessary to know all the technologies.
